@@ -1,0 +1,36 @@
+.navbar-left button {
+	border: none;
+	background: transparent;
+	color: #787878;
+}
+
+ .nav-search input {
+ 	border-top-left-radius: 15px;
+ 	border-bottom-left-radius: 15px;
+ 	border-right: none;
+ 	box-shadow: none;
+ }
+
+.nav-search button {
+	border-top-right-radius: 15px;
+	border-bottom-right-radius: 15px;
+	border-left: none;
+}
+
+.panel-body > .row > .col-md-8 a {
+	padding-right: 8px;
+}
+
+.tweet-links {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.tweet-links a {
+	color: grey;
+	padding-right: 60px;
+}
+
+body {
+	padding-top: 60px;
+}
